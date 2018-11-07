@@ -4,8 +4,8 @@ int main()
     int liczba;
     do
     {
-    scanf("Podaj liczbe 5\n");
-    scanf("%d",&liczba)
+    printf("Podaj liczbe 5\n");
+    scanf("%d",&liczba);
     }while(liczba!=5);
     printf("Podano dobra liczbe\n");
     {
