@@ -3,7 +3,7 @@
 #include <stdlib.h>
 int main()
 {
-    int liczba;
+    char liczba;
     srand(time(NULL));
 
     liczba=(rand()%10)+6;
