@@ -7,3 +7,7 @@
 | 5             | 8             | 13    |
 | 11            | 13            |   24  |
 | 15            | 55            |    70 |
+#### <p align="center">Działanie zaktualizowanego programu 'Losowanie':  
+![losowanie1](https://user-images.githubusercontent.com/44462078/48519924-fa688300-e86e-11e8-8d4e-dca7fb7cfe3d.png)
+#### <p align="center">Screen historii:
+![losowanie2](https://user-images.githubusercontent.com/44462078/48519928-fdfc0a00-e86e-11e8-9239-4109d8a6a63b.png)
